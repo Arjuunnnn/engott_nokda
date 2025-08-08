@@ -9,15 +9,13 @@
 
 
 ### Team Members
-- Team Lead: [Isabella] - [College of Engineering Perumon]
-- Member 2: [Name] - [College of Engineering Perumon]
-- Member 3: [Name] - [College]
-
+- Team Lead: [Isabella Ebenezer] - [College of Engineering Perumon]
+- Member 2: [Arjun M S] - [College of Engineering Perumon]
 ### Project Description
-[2-3 lines about what your project does]
+[It's a website that detects your face and show Suitable Movie Character]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Personality Detection]
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
