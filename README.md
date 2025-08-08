@@ -1,16 +1,16 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [Engott Nokda] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Syntax]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
+- Team Lead: [Isabella] - [College of Engineering Perumon]
+- Member 2: [Name] - [College of Engineering Perumon]
 - Member 3: [Name] - [College]
 
 ### Project Description
