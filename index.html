@@ -127,14 +127,17 @@
     <!-- Home Page (First "page") -->
     <div id="home-page" class="flex items-center justify-center w-full min-h-screen p-4">
         <div class="p-8 md:p-12 rounded-3xl shadow-2xl max-w-sm w-full text-center glass-card md:max-w-2xl">
-            <h1 class="text-4xl font-bold mb-8 title-gradient">
+            <h1 class="text-4xl font-bold mb-3 title-gradient">
                 ഇങ്ങോട്ട് നോക്കടാ
             </h1>
+            <p class="text-gray-300 mb-8 max-w-md mx-auto">
+                നിന്റെ വിധി നീ ഇപ്പൊ അറിയും ...
+            </p>
             <!-- Webcam feed and Take Photo button -->
             <div id="initial-state" class="flex flex-col items-center">
                 <video id="video-feed" class="w-64 h-64 md:w-80 md:h-80 bg-slate-800" autoplay playsinline></video>
                 <button id="take-photo-btn" class="mt-8 w-full md:w-3/4 py-4 px-6 rounded-full font-bold text-lg button-gradient hover:opacity-80 transition-all duration-300 transform hover:scale-105">
-                    എടുക്കട്ടെ..
+                    അങ്ങ് കാച്ചിക്കോ!!!
                 </button>
             </div>
         </div>
@@ -152,7 +155,7 @@
             
             <!-- Video Player and Buttons Section -->
             <div class="section-panel flex flex-col items-center justify-center bg-slate-800/60 p-8 rounded-3xl glass-card">
-                <h3 class="text-2xl font-semibold mb-6 title-gradient">സിനിമയിലെ നിമിഷം</h3>
+                <h3 class="text-2xl font-semibold mb-6 title-gradient">വിധി...</h3>
                 <video id="movie-video" autoplay playsinline class="mb-8"></video>
                 <button id="retake-photo-btn" class="w-full py-4 px-6 rounded-full font-bold text-lg bg-slate-700 hover:bg-slate-600 text-white transition-colors duration-300 transform hover:scale-105">
                     ഒന്നൂടെ പിടിക്കാം!
@@ -180,9 +183,9 @@
         // List of your comedy video files.
         // IMPORTANT: Replace these with the actual filenames of your videos.
         const videos = [
-            '10 heads - manithichthrathazh.mp4',
             'jaryrm - saalam kashmir.mp4',
-            'thakida thkida.mp4'
+            'thakida thkida.mp4',
+            'sunny-kuttan.mp4'
         ];
 
         // --- DOM Elements ---
