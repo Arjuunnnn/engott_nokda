@@ -80,8 +80,8 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[Watch the Demo Video](https://drive.google.com/file/d/1phERIIxRYzPYPPAxaRZYPHeHeK07fwjX/view?usp=sharing)  
+*This video shows the functioning of the site. It first captures an image and then finds a suitable video according to that image.*
 
 # Additional Demos
 [Add any extra demo materials/links]
